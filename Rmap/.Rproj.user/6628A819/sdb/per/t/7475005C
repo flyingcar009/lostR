@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#用R绘制百度迁徙图\n\nlibrary(REmap)\ncity_vec = c(\"北京\",\"Shanghai\",\"广州\")\nget_city_coord(\"Shanghai\")\n",
+    "created" : 1470105596316.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2527457811",
+    "id" : "7475005C",
+    "lastKnownWriteTime" : 1470108450,
+    "last_content_update" : 1470108450754,
+    "path" : "D:/workspace/R/Rscript/emap_baidu.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
